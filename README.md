@@ -4,10 +4,10 @@
 Let's make it easy! Just download this template.
 
 # Demo
-- [Login](https://github.com/pama-Devs/login2/blob/main/Login/index.html)
-- [Register](https://github.com/pama-Devs/login2/blob/main/Login/register.html)
-- [Forgot Password](https://github.com/pama-Devs/login2/blob/main/Login/forgot.html)
-- [Reset Password](https://github.com/pama-Devs/login2/blob/main/Login/reset.html)
+- [Login](https://pama-Devs.github.io/login2/blob/main/Login/index.html)
+- [Register](https://pama-Devs.github.io/login2/blob/main/Login/register.html)
+- [Forgot Password](https://pama-Devs.github.io/login2/blob/main/Login/forgot.html)
+- [Reset Password](https://pama-Devs.github.io/login2/blob/main/Login/reset.html)
 
 # Features
 - Bootstrap 4.1.3
