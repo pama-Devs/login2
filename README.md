@@ -4,7 +4,7 @@
 Let's make it easy! Just download this template.
 
 # Demo
-- [Login](https://pama-Devs.github.io.)
+- [Login](https://pama-Devs.github.io)
 - [Register](https://pama-Devs.github.io/login2/blob/main/Login/register.html)
 - [Forgot Password](https://pama-Devs.github.io/login2/blob/main/Login/forgot.html)
 - [Reset Password](https://pama-Devs.github.io/login2/blob/main/Login/reset.html)
